@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Great-error
-- 👀 I’m interested in c#, c++ and python
-- 🌱 I’m currently learning c#, c++
+- 👀 I’m interested in C#, C++, x86 Assembly and python
+- 🌱 I’m currently learning C#, C++, C, x86 Assembly
 - 💞️ I’m looking to collaborate Operating Systems and C# Chess Engines
 
 <!---
